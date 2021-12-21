@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Eureka",
+    "slug": "Eureka",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Eureka"
+}
